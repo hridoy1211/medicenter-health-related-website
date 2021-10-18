@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Oxygen mask",
+        "rating": 3,
+        "price": 59,
+        "img": "https://i.ibb.co/9s87bX9/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Detol hand-wash ",
+        "rating": 2,
+        "price": 31,
+        "img": "https://i.ibb.co/XJ213w1/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Oxymeter",
+        "rating": 4,
+        "price": 65,
+        "img": "https://i.ibb.co/7bvv9YZ/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "WAY Protine",
+        "rating": 4,
+        "price": 109,
+        "img": "https://i.ibb.co/nBZDb3c/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Lifeboy hand-wash",
+        "rating": 3,
+        "price": 30,
+        "img": "https://i.ibb.co/92tr8NT/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Hand Sanitizer",
+        "rating": 3,
+        "price": 45,
+        "img": "https://i.ibb.co/9Y15WVh/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Temperature checker",
+        "rating": 4,
+        "price": 105,
+        "img": "https://i.ibb.co/CV7xXN2/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Multi vitamin",
+        "rating": 3,
+        "price": 91,
+        "img": "https://i.ibb.co/BGkbX7q/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "germ-X",
+        "rating": 3,
+        "price": 45,
+        "img": "https://i.ibb.co/7npMZ71/9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Biotin",
+        "rating": 4,
+        "price": 105,
+        "img": "https://i.ibb.co/DtDKWtQ/10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Omega 3",
+        "rating": 4.5,
+        "price": 115,
+        "img": "https://i.ibb.co/tLtmYnR/11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Supliment",
+        "rating": 4.5,
+        "price": 195,
+        "img": "https://i.ibb.co/G06SQjn/12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "derma e",
+        "rating": 3,
+        "price": 95,
+        "img": "https://i.ibb.co/p2QfJdP/13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Calcium",
+        "rating": 4,
+        "price": 205,
+        "img": "https://i.ibb.co/ZLD5cQN/14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Raw Enzymes",
+        "rating": 4,
+        "price": 255,
+        "img": "https://i.ibb.co/7gRKgfW/15.jpg"
+    }
+]

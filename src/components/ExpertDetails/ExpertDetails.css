@@ -1,0 +1,12 @@
+.icon2 a i{
+    text-decoration: none;
+    color: #42B3E5;
+    font-size: 25px;
+    margin-right: 15px;
+}
+
+.fab:hover{
+    color: #42B3E5;
+    transform: translateY(-20%);
+    transition: transform 0.5s;
+}

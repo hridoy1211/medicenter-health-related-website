@@ -1,0 +1,25 @@
+.login-form{
+    margin-left: 15%;
+    padding: 10px;
+    width: 100%;
+    
+}
+
+.input-field{
+    width: 100%;
+    margin-bottom: 15px;
+    border: 0;
+    border-bottom: 1px solid #42b4e5b6;
+    outline: none;
+}
+
+.btn-design2{
+    background-color: #42B3E5;
+    color: white;
+}
+
+.btn-design2:hover{
+    background-color: #0c88bd;
+    
+    color: white;
+}

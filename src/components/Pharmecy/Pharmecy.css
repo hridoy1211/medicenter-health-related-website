@@ -1,0 +1,31 @@
+.pharmacy-banner1{
+    background-image: url('../../images/pharmacy/pharmacy-banner-1.png');
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+.pharmacy-banner2{
+    background-image: url('../../images/pharmacy/pharmacy-banner-2.png');
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 55vh;
+}
+
+.discount-title{
+    font-size: 30px;
+    color: #1E727B;
+}
+
+.pharmacy-title{
+    font-size: 70px;
+    color: #242424;
+    font-weight: 900;
+}
+
+.sub-title{
+    font-size: 25px;
+    letter-spacing: 1px;
+}

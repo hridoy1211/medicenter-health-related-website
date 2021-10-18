@@ -1,0 +1,23 @@
+.access-btn{
+    list-style: none;
+    display: flex;
+}
+
+.btn-design{
+    border: 1px solid #42B3E5;
+    color: #42B3E5;
+}
+
+.btn-design:hover{
+    background-color: #42B3E5;
+    color: white !important;
+}
+
+.nav-link span:hover{
+    color: #42B3E5;
+}
+
+.nav-link:hover{
+        transform: translateX(10%);
+        transition: transform 1s;
+}

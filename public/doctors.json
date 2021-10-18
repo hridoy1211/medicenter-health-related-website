@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. John D. Tom",
+        "designation": "Outpatient Surgery",
+        "price": 97,
+        "img": "https://i.ibb.co/HrfdtNn/doctor-1.jpg",
+        "help": "+15852826819",
+        "description": "Outpatient surgery, also known as ambulatory surgery, day surgery, day case surgery, or same-day surgery, is surgery that does not require an overnight hospital stay. The term “outpatient” arises from the fact that surgery patients may enter and leave the facility on the same day."
+    },
+    {
+        "id": 2,
+        "name": "Dr. Greta Milder",
+        "designation": "Dentist",
+        "price": 125,
+        "img": "https://i.ibb.co/BcdzXVT/doctor-2.jpg",
+        "help": "+442037691880",
+        "description": "Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the ora"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Clare Mitchell",
+        "designation": "Pediatric",
+        "price": 90,
+        "img": "https://i.ibb.co/DDJRXYy/doctor-3.jpg",
+        "help": "+16469804741",
+        "description": "Pediatrics is the branch of medicine dealing with the health and medical care of infants, children, and adolescents from birth up to the age of 18. The word “paediatrics” means “healer of children”; they are derived from two Greek words: (pais = child) and (iatros = doctor or healer)"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Robert Brown",
+        "designation": "Gynaecologist",
+        "price": 250,
+        "img": "https://i.ibb.co/HNXsJrc/doctor-4.jpg",
+        "help": "+14844458412",
+        "description": "Gynaecology or gynecology is the medical practice dealing with the health of the female reproductive system. Almost all modern gynaecologists are also obstetricians. In many areas, the specialities of gynaecology and obstetrics overlap. The term means the science of women."
+    },
+    {
+        "id": 5,
+        "name": "Dr. Tim Duncan",
+        "designation": "Gynaecologist",
+        "price": 399,
+        "img": "https://i.ibb.co/ZcLXYTS/doctor-5.jpg",
+        "help": "+15852826351",
+        "description": "Gynaecology or gynecology is the medical practice dealing with the health of the female reproductive system. Almost all modern gynaecologists are also obstetricians. In many areas, the specialities of gynaecology and obstetrics overlap. The term means the science of women"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Dan Marak",
+        "designation": "Ophthalmologist",
+        "price": 199,
+        "img": "https://i.ibb.co/w4B15R9/doctor-7.jpg",
+        "help": "+14842989262",
+        "description": "As adjectives the difference between ophthalmological and ophthalmic. is that ophthalmological is pertaining to ophthalmology while ophthalmic is (medicine) of or pertaining to the eyes."
+    }
+]
