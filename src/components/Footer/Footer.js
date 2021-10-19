@@ -29,8 +29,8 @@ const Footer = () => {
                     <div className='col-md-3 footer-option'>
                         <p className='text-secondary' ><a href="/home">Home</a></p>
                         <p className='text-secondary' ><a href="/ourExperts">Experts</a></p>
-                        <p className='text-secondary' ><a href="/about">About us</a></p>
-                        <p className='text-secondary' ><a href="/">Contact us</a></p>
+                        <p className='text-secondary' ><a href="/pharmecy">Pharmacy</a></p>
+                        <p className='text-secondary' ><a href="/departments">Departments</a></p>
                     </div>
                     <div className='col-md-5'>
                         <h3 className='text-secondary'>Sign up for the newsletter</h3>

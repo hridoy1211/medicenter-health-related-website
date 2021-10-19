@@ -17,6 +17,7 @@ import Pharmecy from "./components/Pharmecy/Pharmecy";
 import AuthProvider from "./context/AuthProvider";
 import Department from "./components/Department/Department";
 import PrivateRoute from "./components/PrivateRoute/PrivateRoute";
+import NotFound from "./components/NotFound/NotFound";
 
 function App() {
   return (
@@ -53,6 +54,10 @@ function App() {
             <PrivateRoute path='/details/:doctorId'>
               <ExpertDetails></ExpertDetails>
             </PrivateRoute>
+
+            <Route path='*'>
+              <NotFound></NotFound>
+            </Route>
 
           </Switch>
           <Footer></Footer>
