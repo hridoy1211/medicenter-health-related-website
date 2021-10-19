@@ -1,5 +1,8 @@
 # MediCenter
 
+### Get healthy news and solutions to your problems from our experts! [Visit us..](https://medicenter-a7a6f.web.app/).
+
+
 Welcome to Medicenter a full-service diagnostic center and medical care clinic located on the north side of Chicago in the historic neighborhood. We provide fast effective and affordable treatment for non-life threatening illnesses and injuries that need attention right away by certified specialists. Entrust your health our doctors. Medical excellence every day. Limitless possiblities medicines are available here Exceptional people.Exceptional care. Organize and visualize your week with buil-in timetable.
 
 
