@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import useAuth from '../../hooks/useAuth';
 
 import logo from '../../images/logo/header_logo.png'
+import emptyProfile from '../../images/logo/empty-profile.jpg'
 import './Header.css'
 
 const Header = () => {
@@ -35,8 +36,10 @@ const Header = () => {
 
                         <ul className='access-btn'>
                             {user?.email ? <li>
-                                <span> <img style={{ width: '38px', borderRadius: '100%', boxShadow: '1px 1px 6px lightsteelblue' }} src={user?.photoURL} alt="" /> <strong style={{ color: '#42B3E5' }}>{user?.displayName}</strong> &nbsp;</span>
-                                {user?.email && <button onClick={logout} className="btn btn-design">Logout</button>}</li> :
+                                <span> <img style={{ width: '38px', borderRadius: '100%', boxShadow: '1px 1px 6px lightsteelblue' }} src={user?.photoURL ? user?.photoURL : emptyProfile} alt="" /> <strong style={{ color: '#42B3E5' }}>{user?.displayName ? user?.displayName : user?.email}
+                                </strong> &nbsp;</span>
+                                {user?.email && <button onClick={logout} className="btn btn-design">Logout</button>}</li>
+                                :
                                 <li> <Link to='/login'><button className="btn btn-design" type="submit">Login</button></Link></li>}
                         </ul>
                     </div>

@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import Medicines from '../Medicines/Medicines';
 import './Pharmecy.css'
+import brand1 from '../../images/pharmacy/image 29.png'
+import brand2 from '../../images/pharmacy/image 30.png'
 
 const Pharmecy = () => {
     const [medicines, setMedicines] = useState([]);
@@ -53,6 +55,17 @@ const Pharmecy = () => {
                             <h1 className='pharmacy-title'>Big Discount</h1>
                             <p className='sub-title'>You can get 10% discount for  buying any medicine. Limitless possiblities medicines are available here.</p>
                         </div>
+                    </div>
+                </div>
+            </div>
+
+            <div className='container mt-5'>
+                <div className="row">
+                    <div className="col-md-6 col-12">
+                        <img className='img-fluid' src={brand1} alt="" />
+                    </div>
+                    <div className="col-md-6 col-12">
+                        <img className='img-fluid' src={brand2} alt="" />
                     </div>
                 </div>
             </div>

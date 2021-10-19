@@ -16,7 +16,7 @@ const Expert = (props) => {
                         <div className='button-style'>
                             <Link to={`/details/${id}`}>
                                 <div className="d-grid gap-2 ">
-                                    <button className="btn btn-design" type="button">Button</button>
+                                    <button className="btn btn-design" type="button">Visit Profile</button>
                                 </div>
                             </Link>
                         </div>
