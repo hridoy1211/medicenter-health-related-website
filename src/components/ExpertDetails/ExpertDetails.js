@@ -19,7 +19,7 @@ const ExpertDetails = () => {
 
 
     return (
-        <div className='container mt-5'>
+        <div className='container' style={{ marginTop: '100px' }}>
             <div className='d-flex justify-content-center'>
                 <div className="card" style={{ width: "500px" }}>
                     <img src={eachDetails?.img} className=" img-fluid" alt="..." />

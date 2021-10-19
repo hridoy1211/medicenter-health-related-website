@@ -9,7 +9,7 @@ const OurExperts = () => {
             .then(data => setExperts(data))
     }, [])
     return (
-        <div className='container'>
+        <div className='container' style={{ marginTop: '70px' }}>
             <h1 className='my-5 text-center' style={{ color: '#242424' }}>Our Experts</h1>
             <div className="row row-cols-1 row-cols-md-3 g-4">
                 {

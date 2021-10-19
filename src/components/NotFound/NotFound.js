@@ -4,7 +4,7 @@ import './NotFound.css'
 
 const NotFound = () => {
     return (
-        <div>
+        <div style={{ marginTop: '100px' }}>
             <div className='error-banner'>
                 <div className="overlay">
                     <div className='d-flex justify-content-center '>

@@ -19,7 +19,7 @@ import './Department.css'
 
 const Department = () => {
     return (
-        <div>
+        <div style={{ marginTop: '100px' }}>
             <section className='container'>
                 <h4 className='mt-5 mb-4 text-center'>Departments</h4>
 
