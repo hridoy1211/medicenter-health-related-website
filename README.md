@@ -9,9 +9,6 @@ Welcome to Medicenter a full-service diagnostic center and medical care clinic l
 As any doctor can tell you, the most crucial step toward healing is having the right diagnosis. If the disease is precisely identified, a good resolution is far more likely. Conversely, a bad diagnosis usually means a bad outcome, no matter how skilled the physician. "Andrew Weil"
 
 
-Get healthy news and solutions to your problems from our experts! [Visit us..](https://medicenter-a7a6f.web.app/).
-
-
 ## Leading Edge Care for Mom and Baby
 The Family Birth Center at Medicenter is a unique, full-service facility offering moms-to-be leading edge care in a comfortable, nurturing setting. We offer care through delivery and post-natal treatment to ensure you a happy and the best possible birthing experience.
 
